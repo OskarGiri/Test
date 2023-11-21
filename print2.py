@@ -1,0 +1,13 @@
+print('2')
+print('oskargiri')
+print(345)
+print('name')
+print(2+2)
+a=19
+b=50
+print(a+b)
+print(a/b)
+first='abc'
+last='de'
+full=first+last
+print(full)
